@@ -22,5 +22,5 @@ spec:
         - containerPort: 8080
         env:
         - name: MY_ENV_VARIABLE
-          value: dummy3
+          value: dummy4
 
